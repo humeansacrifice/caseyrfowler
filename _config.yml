@@ -1,0 +1,17 @@
+# Site settings
+title: Casey.
+header-img: img/home-bg.jpg
+email: casey@caseyrfowler.com
+description: "My personal blog about technical writing and technical tinkering."
+baseurl: 
+url: "http://caseyrfowler.com"
+twitter_username: humeansacrifice
+github_username:  humeansacrifice
+facebook_username:
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
